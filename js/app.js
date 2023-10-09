@@ -1,11 +1,3 @@
-
-// for (let a = 2; a < 21; a++) {
-//     console.log('value of loop is $(a)');
-//     for (let i = 1; i <= 21; i++) {
-//         console.log(a + "*" + i + "*" + i * a);
-//     }
-// }
-
 var cards = [
 
     {
